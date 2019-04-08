@@ -21,7 +21,7 @@ Or install it yourself as:
 ## Usage
 
 Type the below and follow the on screen prompts.
-$ wrc_schedule
+$ wrc_schedule/bin/wrc-schedule
 
 ## Development
 
